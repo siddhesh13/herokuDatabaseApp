@@ -1,4 +1,4 @@
-#!/home/pi/herokuapps/python_feedback_app/quiz/bin/python
+#!/home/pi/herokuapps/herokuDatabaseApp/quiz/bin/python
 
 import sys
 import getopt

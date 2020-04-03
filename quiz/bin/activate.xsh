@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/pi/herokuapps/python_feedback_app/quiz"
+$VIRTUAL_ENV = r"/home/pi/herokuapps/herokuDatabaseApp/quiz"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
